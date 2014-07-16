@@ -15,6 +15,7 @@
 #
 # With no layout
 # page "/path/to/file.html", :layout => false
+page "/rss/meetings.xml", :layout => false
 #
 # With alternative layout
 # page "/path/to/file.html", :layout => :otherlayout
